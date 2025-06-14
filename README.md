@@ -125,5 +125,5 @@
 
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkhatriroshan.com.np%2F&psig=AOvVaw0P7oAv1RQSfVqE4mzQPc2-&ust=1749985558009000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCIpq_i8I0DFQAAAAAdAAAAABAy)" width="250"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkhatriroshan.com.np%2F&psig=AOvVaw0P7oAv1RQSfVqE4mzQPc2-&ust=1749985558009000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCIpq_i8I0DFQAAAAAdAAAAABAy" width="250"/>
 </p>
