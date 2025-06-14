@@ -11,9 +11,21 @@
 🏆 **Winner** – SIH 2023 (India’s Largest Hackathon)  
 🌍 **Champion** – Sunhacks International Hackathon  
 💡 Passionate about building impactful tech with AI, Blockchain & the Web  
-🧠 Obsessed with solving real-world problems using ML, LangChain, and full-stack tools  
+🧠 Obsessed with solving real‑world problems using ML, LangChain, and full‑stack tools  
 📚 Currently pursuing MSc in Artificial Intelligence @ Dublin City University  
-🌱 Exploring Generative AI, Graph RAG, Smart Contracts & more...
+🌱 Exploring Generative AI, Graph RAG, Smart Contracts & more...
+
+---
+
+### 🏅 Timeline & Achievements
+
+| Year | Award / Certification |
+|------|------------------------|
+| 🥇 2023 | Sunhacks International Hackathon – **Global Champion** |
+| 🥇 2023 | SIH (Smart India Hackathon) – **National Winner** |
+| 📜 2022 | Certified TensorFlow Developer (Coursera) |
+| 📜 2021 | AWS Certified Cloud Practitioner |
+| 📜 2020 | Blockchain Essentials (IBM) |
 
 ---
 
@@ -47,7 +59,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  
+
   <!-- Web Dev -->
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -81,12 +93,16 @@
 
 ---
 
-### 🧩 Featured Projects
+### 📌 Pinned Projects
 
-- 🔬 [**MediSense**](https://medi-sense.vercel.app): AI-powered health tech solution – IEEE Published & International Winner  
-- 📑 **Legal Connect**: LLM-powered legal doc assistant – SIH 2023 National Champion  
-- 🐾 **JivSankalp**: ML-based species monitoring with image + sound classification  
-- 🔗 Blockchain-based Product Authenticator – Used by 5+ companies!
+<p align="center">
+  <a href="https://github.com/Rudalph/MediSense" target="_blank">
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="48" />
+    <br />
+    <strong>MediSense</strong>
+  </a>
+</p>
+*Don’t forget to pin “MediSense” manually via **Customize your pins** on your GitHub profile.*
 
 ---
 
@@ -120,7 +136,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rudalph&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Rudalph&icon=4&color=1" />
 </p>
 
 ---
