@@ -23,9 +23,6 @@
 |------|------------------------|
 | 🥇 2023 | Sunhacks International Hackathon – **Global Champion** |
 | 🥇 2023 | SIH (Smart India Hackathon) – **National Winner** |
-| 📜 2022 | Certified TensorFlow Developer (Coursera) |
-| 📜 2021 | AWS Certified Cloud Practitioner |
-| 📜 2020 | Blockchain Essentials (IBM) |
 
 ---
 
@@ -117,11 +114,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rudalph&icon=4&color=1" />
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
