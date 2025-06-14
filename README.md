@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Rudalph Gonsalves GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Rudalph Gonsalves</h1>
 <h3 align="center">🚀 AI Explorer | 💻 Full Stack Developer | 🛡 Blockchain Innovator</h3>
 <p align="center">
