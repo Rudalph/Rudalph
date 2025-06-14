@@ -85,6 +85,15 @@
 
 ---
 
+### 🧩 Featured Projects
+
+- 🔬 [**MediSense**](https://medi-sense.vercel.app): AI-powered health tech solution – IEEE Published & International Winner  
+- 📑 **Legal Connect**: LLM-powered legal doc assistant – SIH 2023 National Champion  
+- 🐾 **JivSankalp**: ML-based species monitoring with image + sound classification  
+- 🔗 Blockchain-based Product Authenticator – Used by 5+ companies!
+
+---
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
