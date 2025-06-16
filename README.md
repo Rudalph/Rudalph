@@ -12,8 +12,8 @@
 
 ### 💫 About Me
 
-🏆 **Winner** – SIH 2023 (India’s Largest Hackathon)  
-🌍 **Champion** – Sunhacks International Hackathon  
+🏆 **Winner** – SIH 2023 (India’s Largest Hackathon)
+🌍 **Champion** – Sunhacks International Hackathon
 💻 Ex SDE Intern — Future Logic Systems Pvt. Ltd.
 🦾 Ex Automation Intern — Arcon Techsolutions Pvt. Ltd.
 🤵 Mentor - Bit N Built International Hackathon
