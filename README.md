@@ -25,8 +25,9 @@
 
 | Year | Award / Certification |
 |------|------------------------|
-| 🥇 2023 | Sunhacks International Hackathon – **Global Champion** |
+| 🥇 2024 | Sunhacks International Hackathon – **Global Champion** |
 | 🥇 2023 | SIH (Smart India Hackathon) – **National Winner** |
+| 🥇 2023 | Innovation Design & Entrepreneur (IDE) Bootcamp – **National Winner** |
 
 ---
 
@@ -94,8 +95,12 @@
 - 🔬 [**MediSense**](https://medi-sense.vercel.app): AI-powered health tech solution – IEEE Published & International Winner  
 - 📑 **Legal Connect**: LLM-powered legal doc assistant – SIH 2023 National Champion  
 - 🐾 **JivSankalp**: ML-based species monitoring with image + sound classification  
-- 🔗 Blockchain-based Product Authenticator – Used by 5+ companies!
-
+- 🔗 [**CoolLabs**](https://coolabs.vercel.app/): A Full-Stack Web Application for Team Collaboration
+- 🏦 [**ZenithAI**](https://zenith-ai-bob.vercel.app/): Elevating banking excellence with peak performance and passionate service.
+- 🏢 [**Creative Techscapes**](https://creative-techscapes.vercel.app/): Design Your Vision Empowered By Our Tech Expertise.
+- 🤖 [**RAG**](https://frcrce-rag.vercel.app/): Retrieval-augmented generation
+- 💵 [**Secure Pay**](https://secure-payments.vercel.app/): Securing Global Payments with Blockchain Transparency
+- ⛓️ [**Fraud Mesh**](https://fraudmesh.vercel.app/): Real-Time AI-Powered Fraud Detection & Prevention Network
 ---
 
 ### 📊 GitHub Stats & Activity
