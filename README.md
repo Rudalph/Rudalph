@@ -12,12 +12,12 @@
 
 ### 💫 About Me
 
-🏆 **Winner** – SIH 2023 (India’s Largest Hackathon)
-🌍 **Champion** – Sunhacks International Hackathon
-💻 Ex SDE Intern — Future Logic Systems Pvt. Ltd.
-🦾 Ex Automation Intern — Arcon Techsolutions Pvt. Ltd.
-🤵 Mentor - Bit N Built International Hackathon
-💡 Passionate about building impactful tech with AI, Blockchain & the Web  
+🏆 **Winner** – SIH 2023 (India’s Largest Hackathon)  
+🌍 **Champion** – Sunhacks International Hackathon  
+💻 Ex SDE Intern — Future Logic Systems Pvt. Ltd.  
+🦾 Ex Automation Intern — Arcon Techsolutions Pvt. Ltd.  
+🤵 Mentor - Bit N Built International Hackathon  
+💡 Passionate about building impactful tech with AI, Blockchain & the Web    
 🧠 Obsessed with solving real‑world problems using ML, LangChain, and full‑stack tools  
 📚 Currently pursuing MSc in Artificial Intelligence @ Dublin City University  
 🌱 Exploring Generative AI, Graph RAG, Smart Contracts & more...
