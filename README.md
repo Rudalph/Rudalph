@@ -10,6 +10,13 @@
 
 ---
 
+### 💫 About Me
+
+🧑‍🎓 M.Sc in Computing (Artificial Intelligence) — Dublin City University
+🧑‍💻 B. Tech in Computer Engineering (Honours in Data Science) — University of Mumbai (Fr. CRCE)
+
+Aspiring software engineering with deep interest in Generative AI, Machine Learning and Blockchain
+
 <!-- ### 💫 About Me
 
 🏆 **Winner** – SIH 2023 (India’s Largest Hackathon)  
