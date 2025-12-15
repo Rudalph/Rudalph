@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Rudalph Gonsalves</h1>
-<h3 align="center">🚀 AI Explorer | 💻 Full Stack Developer | 🛡 Blockchain Innovator</h3>
+<h3 align="center"> 🤖 AI Engineer | 💻 Full Stack Developer | ⛓️ Blockchain Innovator</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p>
 
 ---
 
-### 💫 About Me
+<!-- ### 💫 About Me
 
 🏆 **Winner** – SIH 2023 (India’s Largest Hackathon)  
 🌍 **Champion** – Sunhacks International Hackathon  
@@ -23,6 +23,7 @@
 🌱 Exploring Generative AI, Graph RAG, Smart Contracts & more...
 
 ---
+-->
 
 ### 🏅 Timeline & Achievements
 
