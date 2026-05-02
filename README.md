@@ -201,7 +201,7 @@ Based Sensor Application (ICAIQSA), IEEE.
 - 💵 [**Secure Pay**](https://secure-payments.vercel.app/): Securing Global Payments with Blockchain Transparency — Ongoing
 - ⛓️ [**Validium**](https://validium-ai.vercel.app/): Real-Time ML Powered Blockchain Fraud Detection.
 - 🏷️ [**ConsensusAI**](https://collaborative-annotation-platform.vercel.app/): Annotation Platform with Built-in Agreement and Consensus Analysis
-- 🏷️ [**Gig Proof**](https://gig-proof.vercel.app/): Hire Talent. Work Securely. Get Paid with Trust. — Ongoing
+- ⚒️ [**Gig Proof**](https://gig-proof.vercel.app/): Hire Talent. Work Securely. Get Paid with Trust. — Ongoing
 ---
 
 ### 📊 GitHub Stats & Activity
