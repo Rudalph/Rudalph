@@ -54,8 +54,9 @@ A software engineer passionate about **AI, Full Stack Development, and Blockchai
 
 🔶 Speaker — National Level Faculty Development Program (**RAG, MCP, A2A**)  
 🔶 Guest Lecturer — Blockchain (**Hardhat**)  
-🔶 Guest Lecturer — How to ace **hackathons**  
+🔶 Guest Lecturer — How to ace **Hackathons**  
 🔶 Guest Lecturer — Retrieval Augmented Generation **RAG** (2x)  
+🔶 Guest Lecturer — Cloud Computing **Docker & Kubernetes**  
 
 ---
 
@@ -198,7 +199,9 @@ Based Sensor Application (ICAIQSA), IEEE.
 - 🏢 [**Creative Techscapes**](https://creative-techscapes.vercel.app/): Design Your Vision Empowered By Our Tech Expertise.
 - 🤖 [**RAG**](https://frcrce-rag.vercel.app/): Retrieval-augmented generation
 - 💵 [**Secure Pay**](https://secure-payments.vercel.app/): Securing Global Payments with Blockchain Transparency — Ongoing
-- ⛓️ [**Fraud Mesh**](https://fraudmesh.vercel.app/): Real-Time AI-Powered Fraud Detection & Prevention Network — Ongoing
+- ⛓️ [**Validium**](https://validium-ai.vercel.app/): Real-Time ML Powered Blockchain Fraud Detection.
+- 🏷️ [**ConsensusAI**](https://collaborative-annotation-platform.vercel.app/): Annotation Platform with Built-in Agreement and Consensus Analysis
+- 🏷️ [**Gig Proof**](https://gig-proof.vercel.app/): Hire Talent. Work Securely. Get Paid with Trust. — Ongoing
 ---
 
 ### 📊 GitHub Stats & Activity
